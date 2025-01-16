@@ -69,6 +69,17 @@
         "nome": "associacao do clube de maes primavera",
         "naturezaJuridica": "Associação Privada",
         "endereco": "rua luiz de camoes, 625, tres vendas, pelotas, 96055630"
+    },
+    {
+        "nome": "Instituto Hélio D'Angola",
+        "naturezaJuridica": "Instituto",
+        "endereco": "rua luiz de camoes, 625, tres vendas, pelotas, 96055630"
+    },
+    {
+        "nome": "Fundação Amigos do Caminho",
+        "naturezaJuridica": "Fundação",
+        "endereco": "rua luiz de camoes, 625, tres vendas, pelotas, 96055630"
     }
+
 
 ]
